@@ -1,7 +1,10 @@
 # Capstone-Project-6
+
 ## Poised Database Project
+
 ## Project Details:
-### Description:
+
+Description:
 
 The aim of this project was to enhance the previous 'Poised Project Final' in Capstone Project 5, by incorporating database programming into the project management 
 system in place of external text files to store data. A small structural engineering company could use this program to keep track of various building projects 
@@ -9,7 +12,8 @@ that they are working on. A database called 'PoisePMS' was created to store proj
 in this repository, show the relationships between the tables in the PoisePMS database. Code was written in the Java language to then interact with the 
 database, as well as provide a main user menu.
 
-### Functionality:
+Functionality:
+
 Inside the folder of this project contents, there are four Java classes that run the project management system for the user. These will be explained briefly to 
 outline the overall functionality of the program:
 * The 'PoisedInputChecks.java' class file is a superclass that basically contains code to check different types of user inputs that may be used with the program. It has three methods that check whether a user has correctly entered a string (list of words or sentence), integer (number) or double (number with decimal points) respectively and if not, the user is repeatedly asked to re-enter their input until it is correct. This type of defensive programming ensures that the program is robust and able to deal with user errors.
@@ -23,14 +27,16 @@ outline the overall functionality of the program:
   the main menu after each option, until they choose the last numbered option to 'exit' the program.
 * Each class of code is written to access, edit, view, or display information related to the Poised company, which is stored in the external database 'PoisePMS'.
 
-### Usefulness:
+Usefulness:
+
 This Java project is useful because it provides a straightforward, efficient program for a small company to use as a project management system. 
 The comments within the program allow the user a comprehensive understanding of how the code works and the Java Documentation for the 
 program gives the user more working knowledge on the different classes and methods within the Poised program. The use of database programming for the 
 Poised Project is also much more efficient and superior to the previous version of the project whereby the program made use of external text files to 
 store information. The program has been effectively de-bugged and refactored to ensure overall clarity and better functionality.
 
-### How can I use it?
+How can I use it?
+
 * Firstly, you need to clone this repository with the Task Manager program and related text files to a local repository on your computer, so that you 
 can access and run the program. If you need help, follow the instructions as set out Github help webpage:
   https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
