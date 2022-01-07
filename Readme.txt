@@ -1,8 +1,8 @@
-# Capstone-Project-6
+Capstone-Project-6
 
-## Poised Database Project
+Poised Database Project
 
-## Project Details:
+Project Details:
 
 Description:
 
